@@ -183,6 +183,7 @@ img {
 
 .site-info {
   float: left;
+  margin-top: 40px;
 
   @include mobile {
     float: none;
@@ -192,7 +193,6 @@ img {
 }
 
 .site-name {
-  margin-top: 40px;
   margin: 0;
   color: $darkGray;
   cursor: pointer;
