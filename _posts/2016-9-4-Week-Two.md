@@ -24,5 +24,5 @@ scp -r user@your.server.example.com:/path/to/file /home/user/Desktop/
 allows you to transfer files from remote server to local server. The -r means recursively copy the entire directory. And 
 ```
 scp file.txt your_username@remotehost.edu:/some/remote/directory
-``` 
+```
 allows you to transfer local files to remote server. You can also specify the port number by using`-P` flag with portnumber or transfer multiple files at the same time by replacing the file name with `\{file1, file2, file3\}`.
