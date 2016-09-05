@@ -19,7 +19,7 @@ I am going to finish up with collatz, run my code against all the acceptance tes
 
 One thing I find very useful is scp. It is used for transferring files between different hosts. Ever since 439 I start working a lot more on the lab and have a lot of files stored in lab machine. And sometimes I would like to have a copy of my files on my laptop or transfer my resume to cs machines so it shows up on my cs webpage. The command 
 ```
-scp -r user@your.server.example.com:/path/to/file/home/user/Desktop/
+scp -r user@your.server.example.com:/path/to/file /home/user/Desktop/
 ```
 allows you to transfer files from remote server to local server. The -r means recursively copy the entire directory. And 
 ```
