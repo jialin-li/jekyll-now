@@ -20,7 +20,7 @@ I will start on project 2, catch up with the reading, apply to more places and p
 
 **Tip of The Week**
 
-I am really interested in OS, so I've been looking for opportunities to work under professors interested in systems. For people who are interested, we have a new assistant professor, Vijay Chidambaram joining UTCS. [Vijay Chidambaram](https://www.cs.utexas.edu/~vijay/) has been doing research in file system and storage, and he's interested in taking new students :D It's a great opportunity! He even has instruction on [how to email him/what to say](https://www.cs.utexas.edu/~vijay/email.htm) :) 
+I am really interested in OS, so I've been looking for opportunities to work under professors interested in systems. For people who are interested, we have a new assistant professor, Vijay Chidambaram joining UTCS. [Vijay Chidambaram](https://www.cs.utexas.edu/~vijay/) has been doing research in file system and storage, and he's interested in taking new students :D It's a great opportunity! He even has instructions on [how to email him/what to say](https://www.cs.utexas.edu/~vijay/email.htm) :) 
  
 
 **How I feel about the class**
