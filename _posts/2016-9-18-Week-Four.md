@@ -20,7 +20,7 @@ I will finish all my work, prepare for interviews, go to career fair and finish 
 
 **Tip of The Week**
 
-The product I worked on this summer is finally leaked :P So I can introduce it a little bit now! [Skype Teams](https://mspoweruser.com/microsoft-working-slack-competitor-skype/) is a team messaging and collaboration application, basically a competitor to slack. I really like the UI and how easy it is to switch teams. File sharing within teams and project board are also very useful. The beta hasn't been released yet, but I'm definitely looking forward to it!
+The product I worked on this summer is finally leaked :P So I can introduce it a little bit now! [Skype Teams](https://mspoweruser.com/microsoft-working-slack-competitor-skype/) is a team messaging and collaboration application, basically a competitor to slack. I really like the UI and how easy it is to switch teams. File sharing within teams and project board are also very useful. The beta hasn't been released yet, but I'm definitely looking forward to it! [Here's another article about it](http://www.digitaltrends.com/business/microsoft-slack-competitor-skype-teams-collaboration-tool/).
 
 
 **How I feel about the class**
